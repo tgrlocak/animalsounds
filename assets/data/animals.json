@@ -1,0 +1,574 @@
+{
+    "animals": [
+        {
+            "key": "african-grey-parrot",
+            "image": "assets/animals/images/african-grey-parrot.png",
+            "sound": "assets/animals/sounds/african-grey-parrot.mp3",
+            "translateKey": "african-grey-parrot",
+            "names": [
+                {"tr": "Jako Papağanı"},
+                {"en": "African Grey Parrot"}
+            ]
+        },
+        {
+            "key": "alligator",
+            "image": "assets/animals/images/alligator.png",
+            "sound": "assets/animals/sounds/alligator.mp3",
+            "translateKey": "alligator",
+            "names": [
+                {"tr": "Timsah"},
+                {"en": "Alligator"}
+            ]
+        },
+        {
+            "key": "alpaca",
+            "image": "assets/animals/images/alpaca.png",
+            "sound": "assets/animals/sounds/alpaca.mp3",
+            "translateKey": "alpaca",
+            "names": [
+                {"tr": "Alpaka"},
+                {"en": "Alpaca"}
+            ]
+        },
+        {
+            "key": "anteater",
+            "image": "assets/animals/images/anteater.png",
+            "sound": "assets/animals/sounds/anteater.mp3",
+            "translateKey": "anteater",
+            "names": [
+                {"tr": "Karınca Yiyen"},
+                {"en": "Anteater"}
+            ]
+        },
+        {
+            "key": "antelope",
+            "image": "assets/animals/images/antelope.png",
+            "sound": "assets/animals/sounds/antelope.mp3",
+            "translateKey": "antelope",
+            "names": [
+                {"tr": "Antilop"},
+                {"en": "Antelope"}
+            ]
+        },
+        {
+            "key": "ape",
+            "image": "assets/animals/images/ape.png",
+            "sound": "assets/animals/sounds/ape.mp3",
+            "translateKey": "ape",
+            "names": [
+                {"tr": "Maymun"},
+                {"en": "Ape"}
+            ]
+        },
+        {
+            "key": "bat",
+            "image": "assets/animals/images/bat.png",
+            "sound": "assets/animals/sounds/bat.mp3",
+            "translateKey": "bat",
+            "names": [
+                {"tr": "Yarasa"},
+                {"en": "Bat"}
+            ]
+        },
+        {
+            "key": "bee",
+            "image": "assets/animals/images/bee.png",
+            "sound": "assets/animals/sounds/bee.mp3",
+            "translateKey": "bee",
+            "names": [
+                {"tr": "Arı"},
+                {"en": "Bee"}
+            ]
+        },
+        {
+            "key": "bowhead-whale",
+            "image": "assets/animals/images/bowhead-whale.png",
+            "sound": "assets/animals/sounds/bowhead-whale.mp3",
+            "translateKey": "bowhead-whale",
+            "names": [
+                {"tr": "Kutup Balinası"},
+                {"en": "Bowhead Whale"}
+            ]
+        },
+        {
+            "key": "buffalo",
+            "image": "assets/animals/images/buffalo.png",
+            "sound": "assets/animals/sounds/buffalo.mp3",
+            "translateKey": "buffalo",
+            "names": [
+                {"tr": "Afrika Mandası"},
+                {"en": "Buffalo"}
+            ]
+        },
+        {
+            "key": "butterfly",
+            "image": "assets/animals/images/butterfly.png",
+            "sound": "assets/animals/sounds/butterfly.mp3",
+            "translateKey": "butterfly",
+            "names": [
+                {"tr": "Kelebek"},
+                {"en": "Butterfly"}
+            ]
+        },
+        {
+            "key": "camel",
+            "image": "assets/animals/images/camel.png",
+            "sound": "assets/animals/sounds/camel.mp3",
+            "translateKey": "camel",
+            "names": [
+                {"tr": "Deve"},
+                {"en": "Camel"}
+            ]
+        },
+        {
+            "key": "cat",
+            "image": "assets/animals/images/cat.png",
+            "sound": "assets/animals/sounds/cat.mp3",
+            "translateKey": "cat",
+            "names": [
+                {"tr": "Kedi"},
+                {"en": "Cat"}
+            ]
+        },
+        {
+            "key": "chicken",
+            "image": "assets/animals/images/chicken.png",
+            "sound": "assets/animals/sounds/chicken.mp3",
+            "translateKey": "chicken",
+            "names": [
+                {"tr": "Tavuk"},
+                {"en": "Chicken"}
+            ]
+        },
+        {
+            "key": "cow",
+            "image": "assets/animals/images/cow.png",
+            "sound": "assets/animals/sounds/cow.mp3",
+            "translateKey": "cow",
+            "names": [
+                {"tr": "İnek"},
+                {"en": "Cow"}
+            ]
+        },
+        {
+            "key": "crow",
+            "image": "assets/animals/images/crow.png",
+            "sound": "assets/animals/sounds/crow.mp3",
+            "translateKey": "crow",
+            "names": [
+                {"tr": "Karga"},
+                {"en": "Crow"}
+            ]
+        },
+        {
+            "key": "dinosaur",
+            "image": "assets/animals/images/dinosaur.png",
+            "sound": "assets/animals/sounds/dinosaur.mp3",
+            "translateKey": "dinosaur",
+            "names": [
+                {"tr": "Dinozor"},
+                {"en": "Dinosaur"}
+            ]
+        },
+        {
+            "key": "dog",
+            "image": "assets/animals/images/dog.png",
+            "sound": "assets/animals/sounds/dog.mp3",
+            "translateKey": "dog",
+            "names": [
+                {"tr": "Köpek"},
+                {"en": "Dog"}
+            ]
+        },
+        {
+            "key": "dove",
+            "image": "assets/animals/images/dove.png",
+            "sound": "assets/animals/sounds/dove.mp3",
+            "translateKey": "dove",
+            "names": [
+                {"tr": "Güvercin"},
+                {"en": "Dove"}
+            ]
+        },
+        {
+            "key": "duck",
+            "image": "assets/animals/images/duck.png",
+            "sound": "assets/animals/sounds/duck.mp3",
+            "translateKey": "duck",
+            "names": [
+                {"tr": "Ördek"},
+                {"en": "Duck"}
+            ]
+        },
+        {
+            "key": "elephant",
+            "image": "assets/animals/images/elephant.png",
+            "sound": "assets/animals/sounds/elephant.mp3",
+            "translateKey": "elephant",
+            "names": [
+                {"tr": "Fil"},
+                {"en": "Elephant"}
+            ]
+        },
+        {
+            "key": "falcon",
+            "image": "assets/animals/images/falcon.png",
+            "sound": "assets/animals/sounds/falcon.mp3",
+            "translateKey": "falcon",
+            "names": [
+                {"tr": "Doğan"},
+                {"en": "Falcon"}
+            ]
+        },
+        {
+            "key": "ferret",
+            "image": "assets/animals/images/ferret.png",
+            "sound": "assets/animals/sounds/ferret.mp3",
+            "translateKey": "ferret",
+            "names": [
+                {"tr": "Dağ Gelinciği"},
+                {"en": "Ferret"}
+            ]
+        },
+        {
+            "key": "frog",
+            "image": "assets/animals/images/frog.png",
+            "sound": "assets/animals/sounds/frog.mp3",
+            "translateKey": "frog",
+            "names": [
+                {"tr": "Kurbağa"},
+                {"en": "Frog"}
+            ]
+        },
+        {
+            "key": "giraffe",
+            "image": "assets/animals/images/giraffe.png",
+            "sound": "assets/animals/sounds/giraffe.mp3",
+            "translateKey": "giraffe",
+            "names": [
+                {"tr": "Zürafa"},
+                {"en": "Giraffe"}
+            ]
+        },
+        {
+            "key": "guinea-pig",
+            "image": "assets/animals/images/guinea-pig.png",
+            "sound": "assets/animals/sounds/guinea-pig.mp3",
+            "translateKey": "guinea-pig",
+            "names": [
+                {"tr": "Gine Domuzu"},
+                {"en": "Guinea Pig"}
+            ]
+        },
+        {
+            "key": "hedgehog",
+            "image": "assets/animals/images/hedgehog.png",
+            "sound": "assets/animals/sounds/hedgehog.mp3",
+            "translateKey": "hedgehog",
+            "names": [
+                {"tr": "Kirpi"},
+                {"en": "Hedgehog"}
+            ]
+        },
+        {
+            "key": "hippopotamus",
+            "image": "assets/animals/images/hippopotamus.png",
+            "sound": "assets/animals/sounds/hippopotamus.mp3",
+            "translateKey": "hippopotamus",
+            "names": [
+                {"tr": "Su Aygırı"},
+                {"en": "Hippopotamus"}
+            ]
+        },
+        {
+            "key": "horse",
+            "image": "assets/animals/images/horse.png",
+            "sound": "assets/animals/sounds/horse.mp3",
+            "translateKey": "horse",
+            "names": [
+                {"tr": "At"},
+                {"en": "Horse"}
+            ]
+        },
+        {
+            "key": "humpback-whale",
+            "image": "assets/animals/images/humpback-whale.png",
+            "sound": "assets/animals/sounds/humpback-whale.mp3",
+            "translateKey": "humpback-whale",
+            "names": [
+                {"tr": "Kambur Balina"},
+                {"en": "Humpback Whale"}
+            ]
+        },
+        {
+            "key": "hyena",
+            "image": "assets/animals/images/hyena.png",
+            "sound": "assets/animals/sounds/hyena.mp3",
+            "translateKey": "hyena",
+            "names": [
+                {"tr": "Sırtlan"},
+                {"en": "Hyena"}
+            ]
+        },
+        {
+            "key": "komodo-dragon",
+            "image": "assets/animals/images/komodo-dragon.png",
+            "sound": "assets/animals/sounds/komodo-dragon.mp3",
+            "translateKey": "komodo-dragon",
+            "names": [
+                {"tr": "Komodo Ejderi"},
+                {"en": "Komodo Dragon"}
+            ]
+        },
+        {
+            "key": "leopard",
+            "image": "assets/animals/images/leopard.png",
+            "sound": "assets/animals/sounds/leopard.mp3",
+            "translateKey": "leopard",
+            "names": [
+                {"tr": "Leopar"},
+                {"en": "Leopard"}
+            ]
+        },
+        {
+            "key": "lion",
+            "image": "assets/animals/images/lion.png",
+            "sound": "assets/animals/sounds/lion.mp3",
+            "translateKey": "lion",
+            "names": [
+                {"tr": "Aslan"},
+                {"en": "Lion"}
+            ]
+        },
+        {
+            "key": "lizard",
+            "image": "assets/animals/images/lizard.png",
+            "sound": "assets/animals/sounds/lizard.mp3",
+            "translateKey": "lizard",
+            "names": [
+                {"tr": "Kertenkele"},
+                {"en": "Lizard"}
+            ]
+        },
+        {
+            "key": "moose",
+            "image": "assets/animals/images/moose.png",
+            "sound": "assets/animals/sounds/moose.mp3",
+            "translateKey": "moose",
+            "names": [
+                {"tr": "Geyik"},
+                {"en": "Moose"}
+            ]
+        },
+        {
+            "key": "otter",
+            "image": "assets/animals/images/otter.png",
+            "sound": "assets/animals/sounds/otter.mp3",
+            "translateKey": "otter",
+            "names": [
+                {"tr": "Su Samuru"},
+                {"en": "Otter"}
+            ]
+        },
+        {
+            "key": "owl",
+            "image": "assets/animals/images/owl.png",
+            "sound": "assets/animals/sounds/owl.mp3",
+            "translateKey": "owl",
+            "names": [
+                {"tr": "Baykuş"},
+                {"en": "Owl"}
+            ]
+        },
+        {
+            "key": "panda",
+            "image": "assets/animals/images/panda.png",
+            "sound": "assets/animals/sounds/panda.mp3",
+            "translateKey": "panda",
+            "names": [
+                {"tr": "Panda"},
+                {"en": "Panda"}
+            ]
+        },
+        {
+            "key": "penguin",
+            "image": "assets/animals/images/penguin.png",
+            "sound": "assets/animals/sounds/penguin.mp3",
+            "translateKey": "penguin",
+            "names": [
+                {"tr": "Penguen"},
+                {"en": "Penguin"}
+            ]
+        },
+        {
+            "key": "pig",
+            "image": "assets/animals/images/pig.png",
+            "sound": "assets/animals/sounds/pig.mp3",
+            "translateKey": "pig",
+            "names": [
+                {"tr": "Domuz"},
+                {"en": "Pig"}
+            ]
+        },
+        {
+            "key": "rabbit",
+            "image": "assets/animals/images/rabbit.png",
+            "sound": "assets/animals/sounds/rabbit.mp3",
+            "translateKey": "rabbit",
+            "names": [
+                {"tr": "Tavşan"},
+                {"en": "Rabbit"}
+            ]
+        },
+        {
+            "key": "raccoon",
+            "image": "assets/animals/images/raccoon.png",
+            "sound": "assets/animals/sounds/raccoon.mp3",
+            "translateKey": "raccoon",
+            "names": [
+                {"tr": "Rakun"},
+                {"en": "Raccoon"}
+            ]
+        },
+        {
+            "key": "rat",
+            "image": "assets/animals/images/rat.png",
+            "sound": "assets/animals/sounds/rat.mp3",
+            "translateKey": "rat",
+            "names": [
+                {"tr": "Sıçan"},
+                {"en": "Rat"}
+            ]
+        },
+        {
+            "key": "rattlesnake",
+            "image": "assets/animals/images/rattlesnake.png",
+            "sound": "assets/animals/sounds/rattlesnake.mp3",
+            "translateKey": "rattlesnake",
+            "names": [
+                {"tr": "Çıngıraklı Yılan"},
+                {"en": "Rattlesnake"}
+            ]
+        },
+        {
+            "key": "rhinoceros",
+            "image": "assets/animals/images/rhinoceros.png",
+            "sound": "assets/animals/sounds/rhinoceros.mp3",
+            "translateKey": "rhinoceros",
+            "names": [
+                {"tr": "Gergedan"},
+                {"en": "Rhinoceros"}
+            ]
+        },
+        {
+            "key": "robin",
+            "image": "assets/animals/images/robin.png",
+            "sound": "assets/animals/sounds/robin.mp3",
+            "translateKey": "robin",
+            "names": [
+                {"tr": "Nar Bülbülü"},
+                {"en": "Robin"}
+            ]
+        },
+        {
+            "key": "rooster",
+            "image": "assets/animals/images/rooster.png",
+            "sound": "assets/animals/sounds/rooster.mp3",
+            "translateKey": "rooster",
+            "names": [
+                {"tr": "Horoz"},
+                {"en": "Rooster"}
+            ]
+        },
+        {
+            "key": "scorpion",
+            "image": "assets/animals/images/scorpion.png",
+            "sound": "assets/animals/sounds/scorpion.mp3",
+            "translateKey": "scorpion",
+            "names": [
+                {"tr": "Akrep"},
+                {"en": "Scorpion"}
+            ]
+        },
+        {
+            "key": "shark",
+            "image": "assets/animals/images/shark.png",
+            "sound": "assets/animals/sounds/shark.mp3",
+            "translateKey": "shark",
+            "names": [
+                {"tr": "Köpekbalığı"},
+                {"en": "Shark"}
+            ]
+        },
+        {
+            "key": "sheep",
+            "image": "assets/animals/images/sheep.png",
+            "sound": "assets/animals/sounds/sheep.mp3",
+            "translateKey": "sheep",
+            "names": [
+                {"tr": "Koyun"},
+                {"en": "Sheep"}
+            ]
+        },
+        {
+            "key": "swan",
+            "image": "assets/animals/images/swan.png",
+            "sound": "assets/animals/sounds/swan.mp3",
+            "translateKey": "swan",
+            "names": [
+                {"tr": "Kuğu"},
+                {"en": "Swan"}
+            ]
+        },
+        {
+            "key": "tiger",
+            "image": "assets/animals/images/tiger.png",
+            "sound": "assets/animals/sounds/tiger.mp3",
+            "translateKey": "tiger",
+            "names": [
+                {"tr": "Kaplan"},
+                {"en": "Tiger"}
+            ]
+        },
+        {
+            "key": "turkey",
+            "image": "assets/animals/images/turkey.png",
+            "sound": "assets/animals/sounds/turkey.mp3",
+            "translateKey": "turkey",
+            "names": [
+                {"tr": "Hindi"},
+                {"en": "Turkey"}
+            ]
+        },
+        {
+            "key": "wolf",
+            "image": "assets/animals/images/wolf.png",
+            "sound": "assets/animals/sounds/wolf.mp3",
+            "translateKey": "wolf",
+            "names": [
+                {"tr": "Kurt"},
+                {"en": "Wolf"}
+            ]
+        },
+        {
+            "key": "yak",
+            "image": "assets/animals/images/yak.png",
+            "sound": "assets/animals/sounds/yak.mp3",
+            "translateKey": "yak",
+            "names": [
+                {"tr": "Tibet Öküzü"},
+                {"en": "Yak"}
+            ]
+        },
+        {
+            "key": "zebra",
+            "image": "assets/animals/images/zebra.png",
+            "sound": "assets/animals/sounds/zebra.mp3",
+            "translateKey": "zebra",
+            "names": [
+                {"tr": "Zebra"},
+                {"en": "Zebra"}
+            ]
+        }
+    ]
+}
