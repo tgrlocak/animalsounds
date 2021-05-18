@@ -79,7 +79,6 @@ class _HomePageState extends State<HomePage> {
       child: Scaffold(
         key: _mainScaffold,
         resizeToAvoidBottomInset: true,
-        resizeToAvoidBottomPadding: true,
         appBar: AppBar(
           toolbarHeight: MediaQuery.of(context).size.height * (isPortrait ? 0.1 : 0.15),
           backgroundColor: Colors.black,
